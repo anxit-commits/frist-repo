@@ -1,3 +1,3 @@
 # frist-repo
-This is my first repository
-commiter--Ankit Singh
+This is my first repository|
+Commiter--Ankit Singh
